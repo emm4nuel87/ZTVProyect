@@ -730,91 +730,91 @@
       {
         "name": "HBO",
         "ico": "https://panelssh.com.ar/Img/newhbo.png",
-        "uri": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzoDDIafhB6ag2O08/o6k75okbLqOpktuYTBbJvYCfI4waFTmmdGzzYPJTPGdFyAk0=",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "https://panelssh.com.ar/Keys/hbonew.json"
+        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYlwc8sS8/lyrWxu+QDY6J5g"
       },
       {
         "name": "HBO 2",
         "ico": "https://panelssh.com.ar/Img/hbo2.png",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzcN59PCPJUXDZtx32FaWNIcWYIcr83PJkkrzcWRJZ169U=",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "https://panelssh.com.ar/Keys/hbo2.json"
+        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYkItNhUWqsc/PhUwzRemxlT"
       },
       {
         "name": "HBO PLUS",
         "ico": "https://panelssh.com.ar/Img/hboplus+.png",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzclEQ7k3ezN3f9ZshvsLFX8Lwj6EgE2+wylcZVFWMpefstbhcmvtghvVqe1voxWfgt",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "https://panelssh.com.ar/Keys/hboplus.json"
+        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYlfLqXLERRRxXfQSmV15NJQ"
       },
       {
         "name": "HBO MUNDI",
         "ico": "https://panelssh.com.ar/Img/hbomundi2.png",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_Live_dash_enc_2A/HBO_Mundi.mpd",
+        "uri": "6oAXqKvi+CThkdCmTZlazMJCZRqxqnwLu1Hshjuunr74Zv2SFIvvXKtTVJf14qXiUn0DthO7444BH2gI9bbNnGam3rWiTVOYZMxfSVda8XcljebRaL8SCX2VAB1GP7xg",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "https://panelssh.com.ar/Keys/hbomundi.json"
+        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYlXoWhnBXmQdVyYih9iaj5T"
       },
       {
         "name": "HBO POP",
         "ico": "https://panelssh.com.ar/Img/hbopop.png",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc_2A/HBO_POP.mpd",
+        "uri": "6oAXqKvi+CThkdCmTZlazMJCZRqxqnwLu1Hshjuunr41Y61nxWgb1L0t58hWBB4we7QNKRAEn6qPyeKYlHJOebaG7YLlGb/aet6nov/UGV7oZe2emCxj8qpRU66f6cHE",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "https://panelssh.com.ar/Keys/hbopop.json"
+        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYns1eDDQELJEr6hDqIce73a"
       },
       {
         "name": "HBO XTREME",
         "ico": "https://panelssh.com.ar/Img/hboxtreme.png",
-        "uri": "https://edge-live11-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_Extreme.mpd",
+        "uri": "6oAXqKvi+CThkdCmTZlazMJCZRqxqnwLu1Hshjuunr74Zv2SFIvvXKtTVJf14qXit/FFnYT9Sc3R9WM9rTDJ+9rFcU+EfXB4T3ePbkUMdY/4vuc+iae3v8tjyQIec5jd",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "https://panelssh.com.ar/Keys/hboxtreme.json"
+        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYmvgf1pvxguRzOUXmpXmm+o"
       },
       {
         "name": "HBO FAMILY",
         "ico": "https://panelssh.com.ar/Img/hbofamily.png",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzcSQvGPLXWP6NdPTDMXpTQOizZIcSyOOWKs1cHzmWy9WB1ZQZzcS1ZyFUWjBED+nEv",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "https://panelssh.com.ar/Keys/hbofamilyespanol.json"
+        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYnUtvAC60o3+j4ASswxFjLEuZPS4SvMg0DAxroheK/v4Q=="
       },
       {
         "name": "HBO SIGNATURE",
         "ico": "https://panelssh.com.ar/Img/hbosignature.png",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzcqaDDfHIoo2gz4JEpue5/k7r0B3ifRZ1bFPtUm3Vo6guVSIn5KSAueDVe7+Tig++4",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "https://panelssh.com.ar/Keys/hbosignatureespanol.json"
+        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYla/fOx6yXwhZ1vIojnoa98lv2mSQbjtts6Bo0hAPOEVQ=="
       },
       {
         "name": "UNIVERSAL CINEMA",
         "ico": "https://panelssh.com.ar/Img/universalcinema.png",
-        "uri": "http://noesta.com.ar",
+        "uri": "cp9b+8Ijg/Y1sa3aeqZwaXJ8Te+305LFjeWnF/kDIqkskH7BZ1CidOMFMgBjK7Mx0w2JarJZmdRS+ZruLL22iw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "UNIVERSAL COMEDY",
         "ico": "https://panelssh.com.ar/Img/universalcomedy.png",
-        "uri": "http://noesta.com.ar",
+        "uri": "cp9b+8Ijg/Y1sa3aeqZwaXJ8Te+305LFjeWnF/kDIqkskH7BZ1CidOMFMgBjK7MxeNRWgKAYA/16JSsNgnOumQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "UNIVERSAL CRIME",
         "ico": "https://panelssh.com.ar/Img/universalcrime.png",
-        "uri": "http://noesta.com.ar",
+        "uri": "cp9b+8Ijg/Y1sa3aeqZwaXJ8Te+305LFjeWnF/kDIqkskH7BZ1CidOMFMgBjK7Mx9nyNc6JLepQxCp3yPeJAdw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "UNIVERSAL PREMIERE",
         "ico": "https://panelssh.com.ar/Img/universalpremiere.png",
-        "uri": "http://noesta.com.ar",
+        "uri": "cp9b+8Ijg/Y1sa3aeqZwaXJ8Te+305LFjeWnF/kDIqkskH7BZ1CidOMFMgBjK7Mxy80xOh3WExdBdowGAq52XQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "UNIVERSAL REALITY",
         "ico": "https://panelssh.com.ar/Img/universalreality.png",
-        "uri": "http://noesta.com.ar",
+        "uri": "cp9b+8Ijg/Y1sa3aeqZwaXJ8Te+305LFjeWnF/kDIqkskH7BZ1CidOMFMgBjK7Mxh0LluBcpaYe5TeE67vJB8w==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
