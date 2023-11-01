@@ -3,132 +3,132 @@
     "name": "ARGENTINA",
     "mode": false,
     "lista": [
-        {
-            "name": "AMERICA TV",
-            "ico": "https://panelssh.com.ar/Img/americatv.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_2A/AmericaTV.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/americatv.json"
-          },
-          {
-            "name": "CANAL 9",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/canal9.json"
-          },
-          {
-            "name": "TELEFE",
-            "ico": "https://panelssh.com.ar/Img/telefe.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/telefe.json"
-          },
-          {
-            "name": "CLARO pent",
-            "ico": "https://panelssh.com.ar/Img/telefe.png",
-            "uri": "https://arlocallive2clarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(PENTHOUSE)/master.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/pent.json"
-          },
-          {
-            "name": "EL TRECE",
-            "ico": "https://panelssh.com.ar/Img/eltrece.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/eltrece.json"
-          },
-          {
-            "name": "TN NOTICIAS",
-            "ico": "https://panelssh.com.ar/Img/tn.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_2A/TodoNoticias.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/tnnoticias.json"
-          },
-          {
-            "name": "A24",
-            "ico": "https://panelssh.com.ar/Img/a24_new.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_2A/America24.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/a24.json"
-          },
-          {
-            "name": "C5N",
-            "ico": "https://panelssh.com.ar/Img/c5n_new.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_2A/C5N.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/c5n.json"
-          },
-          {
-            "name": "CANAL 26",
-            "ico": "https://panelssh.com.ar/Img/canal26.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/canal26.json"
-          },
-          {
-            "name": "CRONICA TV",
-            "ico": "https://panelssh.com.ar/Img/cronicatv.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/cronicatv.json"
-          },
-          {
-            "name": "LN+",
-            "ico": "https://panelssh.com.ar/Img/ln.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/ln+.json"
-          },
-		  {
-            "name": "TV PUBLICA",
-            "ico": "https://panelssh.com.ar/Img/TVP.png",
-            "uri": "http://edge-live11-hr.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_2A/Canal7.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/tvpublica.json"
-          },
-          {
-            "name": "INFORMACION PERIODISTICA",
-            "ico": "https://panelssh.com.ar/Img/informacionperiodistica.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_2A/Investigacion_Periodistica.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/infoperio.json"
-          },
-          {
-            "name": "ENCUENTRO",
-            "ico": "https://panelssh.com.ar/Img/ENCUENTRO_NEW.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/encuentro.json"
-          },
-          {
-            "name": "CANAL RURAL",
-            "ico": "https://panelssh.com.ar/Img/canalrural.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_2A/Canal_Rural.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/canalrural.json"
-          },
-          {
-            "name": "NET TV",
-            "ico": "https://panelssh.com.ar/Img/nettv.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_2A/Net_TV.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/nettv.json"
-          },
-          {
-            "name": "ARGENTINISIMA SATELITAL",
-            "ico": "https://panelssh.com.ar/Img/argentinisima.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_2A/Argentinisima.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/argentinisima.json"
-          },
-          {
-            "name": "DIPUTADOS TV",
-            "ico": "https://panelssh.com.ar/Img/dtv.png",
-            "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_2A/Diputados_TV.mpd",
-            "drm_scheme": "ClearKey",
-            "drm_license_url": "https://ztv.com.ar/tv/Claves/dtv.json"
-        }
+      {
+        "name": "AMERICA TV",
+        "ico": "https://panelssh.com.ar/Img/americatv.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzTyAkSd4zUa6N2iByiJQ7YBHu0maMEvUwJFzsNdV/jVhO1aXAkWJy5iTlEeRNpFennGXGmgjcTOyiKURs/OVkN",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGRT+OuyPBJvXcmGKDj3SJvD7yRlnqWPfw8r7nA/N6E3Q"
+      },
+      {
+        "name": "CANAL 9",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/133px-Canal_9_2015.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgynLV1wDr49tz0N0gg/E2YXmarWDeVjnHasqKsYhTpk7tuFyaiWEL1AnsbYjCb2utBjWyFzgr/OgYvXa82RfHvM",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruSuBRrNT2uF5u+GCnohK1S"
+      },
+      {
+        "name": "TELEFE",
+        "ico": "https://panelssh.com.ar/Img/telefe.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxA7hz9GxjT0sxv7gfzMdA3GZglafcA0ntayNS+dDM3+bSU46QR+wQPWCYUR33QaBCAojrONkwS3wIxUEkfqkae",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KGz52pJO40YyUOZI1RePU/h"
+      },
+      {
+        "name": "CLARO pent",
+        "ico": "https://panelssh.com.ar/Img/telefe.png",
+        "uri": "O4WcKWIE0P/5PXD+rwi4P9NKDXExJIIbIR31hge2Fftkw0st2F4jX2mjMatlqTRFcl3dLfOxx7Yb3PAXfKHhV0fx2QXxcSLkaVWaJy9Dp+gIevv2SStyZRrYLHLXW30M8L4HNI6MhYgJWqwhMSml/A==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGXApwD/GNTqbdQQaubsML4Vx3sgNL0mRWcS8aw/iN+ZI"
+      },
+      {
+        "name": "EL TRECE",
+        "ico": "https://panelssh.com.ar/Img/eltrece.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyuWp1SgRKCc0fuqIT7WPCj75yIOOcA3V5U58Zzz7NOcyVnQynMSIZNcXCaPMX9oXBmipVMCSElyVEMtAQGnG+X",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGXsiSivjPZZ/2rwVgAaw/zEmArTycmVAWSxP/EPt8KL2"
+      },
+      {
+        "name": "TN NOTICIAS",
+        "ico": "https://panelssh.com.ar/Img/tn.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx4tGl8n+K7oi1PDgK0zim4/gniyeDZqMU8Aq7wQqwJv07W4x0WWjLF8LGgKOKBra+gImKp6OsqBGi0IP8OHUUL",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGUX6/ohf66G32dvO3OCHApmpt6B9hhfFlPHnAWU7H/9Y"
+      },
+      {
+        "name": "A24",
+        "ico": "https://panelssh.com.ar/Img/a24_new.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgybKavjuLQzJ8uWm0whDDoi/iK/psjiyuLbWNoHg9QELcXjRbVJdeubdNJxku2MP9mTvyfzsRJDjzoUkEl/nYDe",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGWQg+KF/uUXaqoh3BM5mu1aOfgd8AXTA57mwYiNjkJcD"
+      },
+      {
+        "name": "C5N",
+        "ico": "https://panelssh.com.ar/Img/c5n_new.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwYmDDXgMJm8X8S/Vdv/5/VzE0L4Wr6UXUEIHfM/OGLMjzvv+GXTQf/+k2A61djt+8=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGTDJw2/r28WwFsuYFHr5B/aR1n+qDp7KCzHOCIojFI6z"
+      },
+      {
+        "name": "CANAL 26",
+        "ico": "https://panelssh.com.ar/Img/canal26.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwFDR0ELk6bNlBgq3ZAM8ezVD/k2js/c6ZBGgw8vQXVmyQF77DeiikM1owhePdYbw2/I21HnCmsh6nxmyo3g3Vb",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wru48LOfEGXoYn6tuS9BikoE"
+      },
+      {
+        "name": "CRONICA TV",
+        "ico": "https://panelssh.com.ar/Img/cronicatv.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzfTVjXnkKTvv0/ah053NBYTgh+G8uT9D/G8z63+eAh9cJYRp8OaS3RuPqFknVUtAJVeKjN2njdNi15aAvU/FI3",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGcrFhCfpbBi1+p7J7hGWSaxdvlBZUZHowx2s1MMiKx32"
+      },
+      {
+        "name": "LN+",
+        "ico": "https://panelssh.com.ar/Img/ln.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzyxL2LaXGmC3V/prSCtNpHXY3TbAvqHozWuzwW5w+NH6IikLumaWrbRCPXTY6Od8COTpOrv95c3OS6qjs8UtNP",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGalEPkheD5/n/gUfpPtve2ox/3ILgDZq9P0E/pWJerrN"
+      },
+      {
+        "name": "TV PUBLICA",
+        "ico": "https://panelssh.com.ar/Img/TVP.png",
+        "uri": "EpaxwvdVHLj6l4C4q+GDcGykTaOtFgWHAYAs7yOlgqYeCbM9rrvn6y0T9Ri21TqyfUIAUPHZsBk1a1DNzJTKGnywB7yxEkAEtllTULMLn9vS4F/zLaBbbyoCokeTge/A",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGUQaoMCqDbBV4N8MsE+HvEh2YSzbf9Mv86e+AE9q+U0x"
+      },
+      {
+        "name": "INFORMACION PERIODISTICA",
+        "ico": "https://panelssh.com.ar/Img/informacionperiodistica.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxK4PpiupfP/36mvs6T42HwFKapBFKdCkqbq5mMGsXBIMzwvqFzQw6UdvGpWm553FL+/bbhGpVX34e6fCtXmEfNviw/DBKji5jXX/OhTR58Bf0M3wpHVFI4pbnB/5QGdog=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGUToN8I28quOhG024kcPUJdCYWyJ/eu3urCnbONB2e/H"
+      },
+      {
+        "name": "ENCUENTRO",
+        "ico": "https://panelssh.com.ar/Img/ENCUENTRO_NEW.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwQfOm0sO/hy+cggdxOeDr5JXPXCh9T1QVAWWH3QwG9asQB0g17MdFqB4quTFNpQRoUzxE8trVclRpdUKejd7dC",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGRs3gsoOQ5yobU+k4WrGr5uECMuYUWcGrUe/E4qkYlM2"
+      },
+      {
+        "name": "CANAL RURAL",
+        "ico": "https://panelssh.com.ar/Img/canalrural.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/5aPxCjDwXD5m2oygHXG2P3aB2KFYL97zzwUfbWvcOdjrX32o+Cr+Ebswbv7V5ees",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrs+gJAOnYuAaCpWUcg/Gc1q"
+      },
+      {
+        "name": "NET TV",
+        "ico": "https://panelssh.com.ar/Img/nettv.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyJAQF3J1MllWIXpa2rcb9vccysPiiur8WD3Y4TjsMPpHtqY+DlghyY3MDo56b843LdTBQlwse/YBfnMssqBE1G",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGcdSJbfpV7FqvV5K05FBG3lji04SjbCQQBQOXzrM9cqT"
+      },
+      {
+        "name": "ARGENTINISIMA SATELITAL",
+        "ico": "https://panelssh.com.ar/Img/argentinisima.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxbNvYO/9ObKknnf9dnR7KWMN7EPwade0vuvvkilmnq3TjWES3OjcP8L0ALoQ5zsb56Unei+iWU0XZUP3d4ic9j",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGbPBb8bcD2FHD1g0XyzSNTtbkYq2rZzzabmwfTGjh0dK"
+      },
+      {
+        "name": "DIPUTADOS TV",
+        "ico": "https://panelssh.com.ar/Img/dtv.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyiBjYtBiesUtZugId5V7hNSinR1mro4iUiS0bdibhMrgesy687LBfm7dHWYs8m5InZRgVdBjk+HBt75ZjQqCkt",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGQhS8OoV4vZzPXCoEkmGEGA/F46nPPgg4uOT7PuLVJEm"
+      }
     ]
   },
   {
