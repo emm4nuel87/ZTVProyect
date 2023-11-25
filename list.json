@@ -25,13 +25,6 @@
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KGz52pJO40YyUOZI1RePU/h"
       },
       {
-        "name": "CLARO pent",
-        "ico": "https://panelssh.com.ar/Img/telefe.png",
-        "uri": "O4WcKWIE0P/5PXD+rwi4P9NKDXExJIIbIR31hge2Fftkw0st2F4jX2mjMatlqTRFcl3dLfOxx7Yb3PAXfKHhV0fx2QXxcSLkaVWaJy9Dp+gIevv2SStyZRrYLHLXW30M8L4HNI6MhYgJWqwhMSml/A==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGXApwD/GNTqbdQQaubsML4Vx3sgNL0mRWcS8aw/iN+ZI"
-      },
-      {
         "name": "EL TRECE",
         "ico": "https://panelssh.com.ar/Img/eltrece.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyuWp1SgRKCc0fuqIT7WPCj75yIOOcA3V5U58Zzz7NOcyVnQynMSIZNcXCaPMX9oXBmipVMCSElyVEMtAQGnG+X",
@@ -641,7 +634,7 @@
     ]
   },
   {
-    "name": "INFANTILES",
+    "name": "CANALES INFANTILES",
     "mode": false,
     "lista": [
       {
@@ -1382,6 +1375,257 @@
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGQ87o0TBh4P+4Pmnv1Wi8ZuzY1yEgUkhOQmTeNIsYgr8"
       }
     ]
+	  },
+  {
+    "name": "24/7 INFANTILES",
+    "mode": false,
+    "lista": [
+  {
+    "name": "RICK Y MORTY",
+    "ico": "https://panelssh.com.ar/Img/24/RYM.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ+UkmV0TWyYWgL9o44/m5vk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ANIMANIACS",
+    "ico": "https://panelssh.com.ar/Img/24/ANIMA.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ6pEo/gcpdD97aRgvP4gtyI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BOB ESPONJAS",
+    "ico": "https://panelssh.com.ar/Img/24/bob.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZxQvoY4VigFF4cnPwDs3CKw=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BUZZ LIGHTYEAR",
+    "ico": "https://panelssh.com.ar/Img/24/buzz-lightyear-portada.jpg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZwFn0olIcxa25vFxJcV8y/c=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CASTORES CASCARRAVIAS",
+    "ico": "https://panelssh.com.ar/Img/24/castores.jpg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ1D+B981n9DYpXvjT7SAGmI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PINKY Y CEREBRO",
+    "ico": "https://panelssh.com.ar/Img/24/pinkycere.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ1uO5taTlOWBAj3cuhkUyuw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CAT DOG",
+    "ico": "https://panelssh.com.ar/Img/24/catdog.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ6t5oATZQI6jA/IIdwPTDOs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CORAJE EL PERRO COBARDE",
+    "ico": "https://panelssh.com.ar/Img/24/coraje.jpg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ0nPo3LfubnjqxRN2HVrki0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL COYOTE Y EL CORRECAMINOS",
+    "ico": "https://panelssh.com.ar/Img/24/cyc.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ1IvcKH0NRnq+t+yZ0Hp/c0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL LABORATORIO DE DEXTER",
+    "ico": "https://panelssh.com.ar/Img/24/dexter.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ7wlJdk5tCtFRfgfTturG40=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL PAJARO LOCO",
+    "ico": "https://panelssh.com.ar/Img/24/pajaroloco.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ9CtNZzXNFSOT3oYRqlZbOU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL SHOW DE LOS LOONEY TUNES",
+    "ico": "https://panelssh.com.ar/Img/24/ltshow.jpg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZwghZ8I0fRAiM2J+TrfoOOc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESCANDALOSOS",
+    "ico": "https://panelssh.com.ar/Img/24/escanda.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZwhsgkTgI2sj0oU5f9HiBQM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FUTURAMA",
+    "ico": "https://panelssh.com.ar/Img/24/futurama.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ3OIGPXEItHIpxQaYmNsmHU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JIMMY NEUTRON",
+    "ico": "https://panelssh.com.ar/Img/24/jymy.jpg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ6sY3dQJMJZhgQ1Km/1vq7E=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JOHNNY BRAVO",
+    "ico": "https://panelssh.com.ar/Img/24/jony.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ4L3S5l22b1Eu9phl3jZ4OM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA CASA DE MICKEY MOUSE",
+    "ico": "https://panelssh.com.ar/Img/24/lcdmmouse.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ/XB9DkqunJbngr8C84L3Bo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA PANTERA ROSA",
+    "ico": "https://panelssh.com.ar/Img/24/PinkPanther.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ6ZfhDl61uqm3hVLg5bqn5A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS GATOS SAMURAI",
+    "ico": "https://panelssh.com.ar/Img/24/lgsamurai.jpg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ5Dxj6PxP5rs6jntwHVSxYU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS PICAPIEDRAS",
+    "ico": "https://panelssh.com.ar/Img/24/lospica.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ6LBowEUTIMs/eu93P1kltE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS SIMPSONS",
+    "ico": "https://panelssh.com.ar/Img/24/losimp.jpg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ45XfAq3fYy6U2XYRWqi73E=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS SIMPSONS NEW",
+    "ico": "https://panelssh.com.ar/Img/24/lossimpnew.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ2YMOxKCDx2U0AybdI4SMpI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS THUNDERCATS",
+    "ico": "https://panelssh.com.ar/Img/24/thunder.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ4jHDkeLAQrNrNySvH7puKo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MASHA Y EL OSO",
+    "ico": "https://panelssh.com.ar/Img/24/mashayeloso.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZyDRSF40JZ5ILJSZswMJW+E=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PEPPA PIG",
+    "ico": "https://panelssh.com.ar/Img/24/pepa.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ3W7YomPKXgaPUUixP4rlLk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PHINEAS Y FERB",
+    "ico": "https://panelssh.com.ar/Img/24/phineas.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ8yIvKx//lUrEKqaBh1zNzE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "POKEMON",
+    "ico": "https://panelssh.com.ar/Img/24/pokemon.jpg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ8WAYDuqIuHcgTsqujJVDkg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SAILOR MOON CRYSTAL",
+    "ico": "https://panelssh.com.ar/Img/24/saylormoon.jpg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZym7f0uxWQAWJNoHbZ6E+G4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SHOUT PARK",
+    "ico": "https://panelssh.com.ar/Img/24/shoutpark.jpeg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ5/Eh87QWZ8/1mXCIB7v3Bg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TEEN TITANS GO",
+    "ico": "https://panelssh.com.ar/Img/24/teentitan.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ8TebzFFVp0x+LhxHOtD9iI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VACA Y POLLITO",
+    "ico": "https://panelssh.com.ar/Img/24/vyp.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ1UY99kD8XVNkZ/26bbTqDw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "YU GI OH",
+    "ico": "https://panelssh.com.ar/Img/24/yigio.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ+MAV5FnqDp122bAx+6r9ao=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPIDERMAN",
+    "ico": "https://panelssh.com.ar/Img/24/spiderman.jpg",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ8UguxzZ9bwUlccxyrVU7Sc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SUPER CAMPEONES",
+    "ico": "https://panelssh.com.ar/Img/24/supercam.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ57MXHQtjLzw6cvzyUshJEg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TOM AND JERRY IN NEW YORK",
+    "ico": "https://panelssh.com.ar/Img/24/tomyjerry.webp",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9qP2wLtTe6WptHjxuGHJP8jcgdGNpJ0SA9pt06o3AIa4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+]
   },
   {
     "name": "TELEVISION INTERNACIONAL",
