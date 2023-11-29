@@ -1137,12 +1137,19 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZdyqg48xaVMUGfzovqPCYPSUhRjWibFB9Jh55E1earh"
       },
+     {
+    "name": "UNIVISION TLNOVELAS",
+    "ico": "https://ztv.com.ar/tv/panel/Img/univisiontlnovelas.png",
+    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9BOUR+R1ojypk3YfXv+vL4GK7MLPPdpYs2G+1ZBB6Oms=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+      },	  
       {
-        "name": "TL NOVELAS",
-        "ico": "https://panelssh.com.ar/Img/tlnovelas.png",
-        "uri": "JSLKKaXpZz45Abyjzm8feTnMs0DZFi/jbvN4GhGLeZQobQay2nHXRRWOc0CWbbKkTW9gytendEWrCCaB3iSZ2g==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": ""
+    "name": "TL NOVELAS",
+    "ico": "https://panelssh.com.ar/Img/tlnovelas.png",
+    "uri": "g8/r11ZKyiQPtUzbCWyC9QcJllm24ZK/PqnwSNOATIMze0BitDrk2iX1NsBTSQRh",
+    "drm_scheme": "",
+    "drm_license_url": ""
       },
       {
         "name": "TNT NOVELAS",
