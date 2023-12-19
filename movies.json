@@ -4,6 +4,62 @@
         "mode": false,
         "lista": [
   {
+    "name": "Trolls 3: Todos juntos (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg",
+    "uri": "X0z9KSCQKlDSxPtiN6s6RQmHGDlcxqbvIa+uq7ki6oLiydlwZJOl4ZW3HCGX1tn+",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La calle de la Navidad (2023)",
+    "ico": "https://static.wikia.nocookie.net/doblaje/images/b/b9/La_calle_de_la_Navidad.png/revision/latest?cb=20231201161241&path-prefix=es",
+    "uri": "X0z9KSCQKlDSxPtiN6s6RQ/7+rPo0UsvT8KcGT3s13UUjGpe78gIzu9huDsXuEdk",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Blue Beetle (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z5mkvXYNRauSzHdZgxAj6MzrLTY.jpg",
+    "uri": "X0z9KSCQKlDSxPtiN6s6ReDmvtjk5j3CtfpH8DLKE7lbhNtGKbuu+2ac1EpO8/8A",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Mercenarios 4 (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jmE7xH0R0dikmc8iplCPCit4MD.jpg",
+    "uri": "X0z9KSCQKlDSxPtiN6s6RVgoRCbPTk6XQleGcj5GJIox2TISJ+pjSY7rj5huw3T4",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The Creator (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c6otMCRG9bZzI97o9V8hCkOgUvA.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5N2nW2DTtC5CTJZuxDdDqkhemZV3txp61ASUT/QpzzSo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Ninja Turtles: Caos mutante (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mgBXgA8jHext4KRWg84Cux5Y94L.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5eMNxwl5RPmXWrw91/ZCQV1zUTimnYRjToWeMMrfr4U4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Contrarreloj (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mhLYcyxuhb82ttYDEU5DM8b3Hy3.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I50cLYJUttkHJMOfz+as9s5rQUG+RoxLjyQuvkE0Zrg6lFtZ35bhXSPNweY89ssmvr",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rey de asesinos (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/59PHpiaLvVsCriuRzW8aftRoO5D.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5t9Ug4VEygtOCgoPGWwKGaDBx8+33Q1W44lYi0UzyyHg+mqbCOW9uAnLIlYD2yI/n",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },            
+  {
     "name": "El exorcista: Creyentes (2023)",
     "ico": "https://hackstore.rs/wp-content/uploads/2023/10/6StdSKn9ej4rwtQjcl1XMk5E0iE-200x300.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+0NH981gQ+1ah853pRLxLg+qce+pFgvbUtrx2h1TLrxGzZMhOo0TRvBovfp9/I+38=",
