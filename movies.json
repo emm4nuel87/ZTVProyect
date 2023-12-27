@@ -3,6 +3,27 @@
         "name": "PELICULAS ESTRENOS 2023",
         "mode": false,
         "lista": [
+ {
+    "name": "Chicken Run: Amanecer de los nuggets (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xPQeZUdUIsjbbXVjm69owPdSqTG.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5b5iAm5xPuMp73qHbyPG/Ztn+icNph7l4fpD0oGpEtRY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Su unico Hijo (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1MvQXCBJtC34yI16QS276ZjWKY1.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I58BNSmKMiWnGwC/SaatPxkVFfBlkce/xj7zUvr1IX2E8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Mansión encantada (Haunted Mansion) (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3EuVUPGihWXfwTt3myKVKOydPVW.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I58JlCg2gMmQaY03YKCqBhbKbWVnKFErgjacDS9ll+p4Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },          
   {
     "name": "Viernes Negro (2023)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zCR24HZm2RYs6GfgcHPnin6U7vZ.jpg",
